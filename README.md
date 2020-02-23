@@ -1,9 +1,9 @@
 # Sivustot
 
 ## Dev
-https://dev.hel.fi/apis/respa/
-https://dev.hel.fi/projects/respa-resource/
-https://dev.hel.fi/projects/varaamo/
+- https://dev.hel.fi/apis/respa/
+- https://dev.hel.fi/projects/respa-resource/
+- https://dev.hel.fi/projects/varaamo/
 
 ## Digi
 https://digi.hel.fi/projektit/digitaaliset-kaupunkilaispalvelut/varaamo/
