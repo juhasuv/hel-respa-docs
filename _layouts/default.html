@@ -13,6 +13,7 @@
 
     <header>
       <div class="container">
+        {% include nav.html %}
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
