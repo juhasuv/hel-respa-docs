@@ -78,9 +78,9 @@
 ### Reports
 - 
 
-## GitLab
+# GitLab
 - https://gitlab.com/City-of-Helsinki/ohjelmistokehitys/wikis/respa
 
 
-## GitBook
+# GitBook
 - https://cityofhelsinki.gitbook.io/varaamo/
